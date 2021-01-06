@@ -1,0 +1,40 @@
+- Color Palettes 
+
+https://coolors.co/palettes/trending
+______________________________________
+- Specificity Calculator 
+
+https://specificity.keegan.st/
+_______________________________________
+- Text-align
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/text-align
+_______________________________________
+- Some of attribute selectors 
+
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Attribute_selectors
+_______________________________________
+- Transition timing function
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/transition-timing-function
+
+https://easings.net/
+_______________________________________
+
+-Transform:
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/rotateX()
+_________________________________________
+-Free Images
+
+https://unsplash.com/
+_________________________________________
+
+-Fonts
+
+https://fonts.google.com/
+_________________________________________
+
+-Media Queries 
+
+https://devfacts.com/media-queries-breakpoints-2021/
