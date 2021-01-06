@@ -1,0 +1,43 @@
+img {
+    width: 30%;
+    margin: calc(8%/6);
+    height: 400px; 
+    object-fit: cover; 
+    overflow: hidden; 
+}
+
+nav {
+    font-family: 'Playfair Display', serif;
+     text-transform: 1em;
+     border-bottom: 2px solid #f1f1f1 ;
+     width: 95%;
+     margin-left: 2%;
+     padding: 1.2em 0;
+}
+
+.montains {
+    filter: grayscale(1);
+    transition: 1s;
+}
+
+.montains:hover{
+    filter: grayscale(0)
+}
+
+.sea {
+    filter: grayscale(1);
+    transition: 1s;
+}
+
+.sea:hover{
+    filter: grayscale(0)
+}
+
+.stars {
+    filter: grayscale(1);
+    transition: 1s;
+}
+
+.stars:hover{
+    filter: grayscale(0)
+}
