@@ -1,6 +1,9 @@
 - Color Palettes 
 
 https://coolors.co/palettes/trending
+
+gradiens:
+https://uigradients.com/#Shore
 ______________________________________
 - Specificity Calculator 
 
