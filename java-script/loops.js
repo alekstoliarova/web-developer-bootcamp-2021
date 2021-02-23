@@ -9,7 +9,8 @@
 // console.log(9)
 // console.log(10)
 
-for (let i = 1; i<=10; i++) {
-    console.log("I`m in the loop body :)");
-    console.log(i);
-}
+// for (let i = 1; i<=10; i++) {
+//     console.log("I`m in the loop body :)");
+//     console.log(i);
+// }
+
